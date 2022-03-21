@@ -1,0 +1,394 @@
+/* Main Interface */
+Presentation	介紹
+Data Catalog	資料目錄
+Playlist Builder	播放清單產生器
+Web Page	網頁
+Settings	設置
+
+/* Presentation */
+Annotate	註釋
+Zoom	放大
+Slices	片
+User Position	用戶位置
+User Pos	用戶位置
+^Data Info	資料內容
+Reset	重置
+Z-Rotate	Z軸旋轉
+Gestures	手勢
+Frame Slider	飛梭
+Frame	影片片格
+Clear Lines	清除線條
+Clear	清除
+Lines	線
+Point	指標
+Draw	繪圖
+Icons	圖示
+Delete All	全部刪除
+^Icon AddDel	新增/刪除圖示
+Window Size	視窗大小
+Show	展示
+Hide	隱藏
+Slicer	分割視窗
+^Split Sphere	即將球體分成多個視窗請稍候...
+^Position Info	調整至相對於赤道的縱向位置
+^Frame Info	使用飛梭滾動到資料集相對應的影片片格
+^Loading Searching Library	加載搜索函式庫。\n請稍候...
+^Playlist Button	播放清單產生器按鍵
+^Catalog Button	目錄按鍵
+Volume	音量
+^Volume Info	調整SOS影片之音量
+
+/* Dataset Layers */
+Display Elements	顯示元素
+Layers	圖層
+^Layer Name	SOS錯誤：圖層名稱無法識別
+Back	返回
+Transparency	透明度
+Invisible	不顯示
+Visible	顯示
+Delete Layer	刪除圖層
+Labels	標籤/字幕
+Labels / Captions	標籤/字幕
+PIPs	PIPs
+Overlay:	覆蓋：
+PIP:	PIP:
+unnamed	未命名
+
+/* Annotations */
+Line Options	線條選項
+Icon Options	圖示選項
+Pointer	指標
+Use Default	使用默認
+Use Icon	使用圖示
+icons in dataset	資料集圖示
+icon in dataset	資料集圖示
+icons in library	圖庫中圖示
+
+/* Gestures Help */
+Presentation Help	演示説明
+Single Tap	按一下
+Double Tap	按兩下
+Yaw	偏航
+Pitch	間距
+Roll	滾動
+^Toggle Play	切換播放或暫停
+^Toggle Annotate	切換至註釋
+^Toggle Zoom	切換至縮小或放大
+Annotation Help	註釋說明
+^Toggle Point	切換點或繪圖
+Clear Draw Lines	清除畫線
+Add Icon	新增圖示
+Touch & Hold	觸摸並按住
+Clear All Icons	清除所有圖示
+Zoom Help	如何縮放
+Move Window	移動視窗
+^Zoom Factor	增加/減少縮放比例
+^Spread Pinch	分割數量
+
+/* Playlist Selection */
+playlist	播放清單
+live program	直播
+datasets search results	資料集搜索結果
+live program results	即時直播搜尋結果
+datasets	資料集
+Missing Data	缺少資料集
+^Catalog Type Missing Playlist File	該數據集的數據目錄在SOS伺服器上無法被找到。
+^No Data	沒有資料
+^Open Error	開啟資料錯誤
+^Layer Error	開啟圖層錯誤
+^Notes Missing	無筆記
+^Notes Unsupported	不支援筆記
+Missing Playlist	缺少播放清單
+playlists	播放清單
+Select Playlist	選擇播放清單
+^Load Playlist	選擇一個播放清單後載入
+^Read Playlist	讀取播放清單
+overlays	疊加
+Overlays	疊加
+Loading Dataset	加載數據集
+^Playlist Type Missing Playlist File	此數據集的播放列表中無法於SOS伺服上找到。
+Missing Live Program	缺少直播節目
+^Missing Live Program Playlist File	直播數據在SOS伺服器上無法被找到。
+Reload Current	重新載入
+non-Standard Path	非正常路徑
+^NonStandard Path	此資料集無法於SOS伺服器上發現，請將此資料集目錄移至 /shared/sos/media/site-custom 目錄底下
+
+/* Highlights Datasets */
+spotlight datasets results	搜尋亮點資料集結果
+Spotlight Datasets Unavailable	亮點資料在伺服器上無法使用
+^No Spotlights	無亮點資料集
+Cannot Add Dataset	無法增加資料集
+^Temp Datasets Not Allowed	暫存資料存取不被允許
+
+/* Playlist Builder Controls */
+Add	增加
+Save	儲存
+Delete	刪除
+New	新增
+Open	開啟
+Present	目前內容
+Rename	重新命名
+Remove	刪除
+Presenter Notes	演講者筆記
+unsaved	未存檔
+^Notes Placeholder	在此輸入您的筆記
+^No Notes	沒有可用的筆記
+
+/* Playlist Builder Information */
+Delete Playlist	刪除播放清單
+Rename Playlist	重新命名播放清單
+Save Playlist	儲存播放清單
+Present Playlist	目前播放清單
+^Deleted Info	播放清單刪除
+^Delete Error	無法刪除播放清單
+^Delete Confirm	確認要刪除播放清單?
+^Exists Info	播放清單已存在
+^Path Verify	驗證已指定的目錄路徑，新的子目錄必須在SOS伺服器上建立
+^Different Name	請選擇一個不同的名稱
+Playlist	播放清單
+renamed to	更名
+^Rename Error	錯誤：無法更名播放清單
+^New Name	輸入一個新的播放清單名稱
+^Enter Name	請輸入欲儲存之清單名稱
+^Save Action	按儲存編輯播放清單
+^Save Changes	將儲存播放清單的修正內容
+^Save Needs Playlist	要保存更改，請按取消並首先在工具欄上輸入播放列表名稱。
+^Saved Info	在SOS伺服器上儲存的播放清單
+^Save Error	錯誤：無法儲存播放清單
+^Save First	新建播放清單需要先儲存
+^Save Question	儲存變更？
+^Editing Choice	是否要繼續編輯此播放清單，或清除？
+^Invalid Characters	請重新輸入，不支援空格及特殊字元：
+^Playlist Error	播放清單錯誤：
+^Created Playlist	新增SOS播放清單
+Saved	儲存
+time	時間
+dataset	資料集
+Contains	包含
+OK	行
+Cancel	取消
+Don't Save	不儲存
+Continue	繼續
+new_playlist	新的播放列表
+
+/* Dataset Information */
+Data Info	資料內容
+^Select Datasets	請選擇資料集
+^Dataset Archived	資料集存檔，並從SOS資料目錄中刪除
+^No Description	沒有可用的描述
+Notable Features:	顯著特點：
+Details:	詳細資訊：
+Catalog ID:	目錄編號：
+archived	存檔
+(variation)	（變化）
+Keyword	關鍵字
+Keywords	關鍵字
+Category	分類
+Categories	分類
+Contact	聯繫
+Dataset Developer	資料集開發人員
+Visualization Developer	視覺化開發
+Source:	資源：
+Dataset Dates:	資料集日期：
+Added to Catalog:	新增到目錄：
+Playlist:	播放清單：
+Format:	格式：
+^Silent Movie	即時動畫（無音訊）
+^Narrated Movie	敘述電影（帶音訊）
+Movie	電影
+Single Image	單張圖像
+with Translated Audio	本資料含有翻譯音訊
+with Audio	帶音訊
+without Audio	不帶音訊
+SOS Web	SOS官方網站
+^Translated Movie	敘述電影（帶翻譯音頻）
+Frame Size:	片格尺寸：
+
+/* Dataset Browse and Search */
+Done	結束
+No Search Results	無搜索結果
+^Dataset Add	 當資料集搜索結果為零時，無法將搜尋結果加入播放器中
+Entry Error	輸入錯誤
+^Date Format	年份輸入時只能使用####格式，本搜索將包括包括當年所有資料集
+MAJOR CATEGORIES	主要類別
+SUB CATEGORIES	子類別
+LIVE PROGRAMS	直播節目
+CLEAR	清除
+search	搜索
+MOVIES	電影
+REALTIME	即時
+Title	抬頭
+Keywords	關鍵字
+Description	描寫
+Creator	建立者
+^Audio Movies	有聲電影
+^No Audio Movies	無聲電影 
+^Audio Descriptions	有聲有字幕電影
+^Non-English	非英語
+^Localized Datasets	數據集翻譯
+^Hires Datasets	僅允許高分辨率資料
+A-Z	A-Z
+Date	日期
+DATASETS	資料集
+LIVE PROGRAMS	直播節目
+YEAR	年度
+THEMES	主題
+themes	主題
+FILTERS	篩檢程式
+filters	篩檢程式
+library	圖庫
+libraries	圖庫
+Load	載入
+Spotlight!	亮點!
+* This dataset is temporary and not part of the SOS Data Catalog.	* 這是一個暫存資料目錄，不是SOS資料集的一部分。
+Play | Pause	播放|暫停
+JAN	一月
+FEB	二月
+MAR	三月
+APR	四月
+MAY	五月
+JUN	六月
+JUL	七月
+AUG	八月
+SEP	九月
+OCT	十月
+NOV	十一月
+DEC	十二月
+
+/* SOS Settings */
+SOS Settings	SOS設置
+Connection	聯繫
+Host:	主機位置：
+Auto Run	自動播放
+SOS Data Catalog	SOS資料目錄
+^Old Database	舊SOS資料目錄
+^Update Database	更新資料庫？
+^Catalog Update	SOS資料目錄更新
+No	否
+Yes	是
+Alignment Password	校準密碼
+Alignment	校準
+^Alignment Password	輸入校準密碼
+Submit	提交
+WARNING	警告
+^Alignment Warning	只有經過訓練的人員才能使用校準功能，使用不當將會導致SOS的外觀變形
+^Alignment Proceed	你確定要繼續嗎？
+Connected	聯繫
+Not Connected	未連接
+^Unconnected Error	SOS錯誤：未連接到SOS
+^Connection Error	錯誤：無法連接到Wi-Fi或藍芽，請到您的設備的設定頁面，檢查Wi-Fi或藍芽連接
+^Connection Error iPhone	沒有Wi-Fi /藍芽，請檢查連接
+^Host Error	錯誤：無法連接到主機，請確認主機名稱是否正確，並確認您已連接至正確的Wi-Fi網路或藍芽配對
+^Host Error iPhone	無法辨識主機名稱，請確認Wi-Fi /藍芽是否正常連接
+^SOS Error	錯誤：能夠連接到Wi-Fi和主機，請確認主機名稱是否正確，以及Wi-Fi網路或藍芽配對是否正確
+^SOS Error iPhone	無線網路連接/藍芽與主機=是，SOS =否
+^Web Error	該應用程序無法從Internet連線SOS網頁。
+^Catalog Missing	錯誤：資料目錄遺失！
+^SOS Update	更新SOS：
+^iPad Update	更新iPad：
+^iPad Never	不更新iPad
+^Catalog Current	當前資料目錄並不需要更新
+^Run Update	是否更新？
+^Catalog Update	SOS資料目錄更新
+Loading	載入中
+^Transfer Catalog	轉移SOS資料目錄
+^Wait	請稍候...
+^Catalog Initialize	資料目錄初始化
+^Catalog Open	無法打開SOS資料目錄！
+^Update Again	請再試一次更新
+Status:	狀態：
+Missing	遺失
+Out-of-Date	過期
+Up-to-Date	最新
+^Missing SOS	無法連接SOS伺服器
+^Missing Both	無法連接SOS伺服器及iPad
+Alignment Password Failed	校準密碼失敗
+Alignment Password Saved	校準密碼儲存
+^Password Failed	校準的介面無法打開，輸入密碼錯誤
+Auto Run Mode	自動播放模式
+^Stop Autorun	自動SOS播放執行中，應用程式的其餘部分將無法使用，點擊停止按鈕結束自動播放模式
+Stop	停止
+Update Now	現在更新
+Version Incompatibility	版本不相容
+^Version Upgrade	要快速搜索和瀏覽SOS數據目錄中的數據，並使用應用程式的播放列表產生器建立新的播放列表，您必須將SOS伺服器升級到版本4.3.1或更高版本。\n\nSOS伺服器當前正在運作的版本
+Feature Unavailable	功能不可用
+^Upgrade Software	要使用此功能，您必須將SOS軟件升級到最新版本。
+
+/* Alignment Controls */
+^Ball Step	第1步：紅球
+^Grid Step	第2步：網格
+^Vertex Step	第3步：頂點扭捏
+Factory Reset	恢復出廠設置
+^Factory Reset	恢復出廠設置將完全復位投影機的定位，只有當投影機已經移動或對準真的關閉時才進行這個選項
+^Reset Question	你想要做恢復出廠設置嗎？
+Start	開始
+Stop	停止
+Complete	完成
+Unable to Start	無法啟動
+Unable to Stop	無法停止
+Stopped	停止
+Finished	完成
+Timed Out	時間到
+Ready	預備
+Manual	手動
+Select Projector	選擇投影機
+Show Projector	顯示投影機
+Translate	翻譯
+Scale	量尺
+On/Off	開關
+Taller	高
+Squatter	大
+Wider	寬
+Thinner	窄
+Rotate	旋轉
+^Auto Align	自動（實驗）
+^Requires Hardware	*需要額外的硬體
+Revert	複歸
+Select Vertex	選擇頂點
+On	開啟
+Off	關閉
+Reset Vertices	重置頂點
+All	所有
+^Vertices Confirm	您確定要重置頂點嗎？
+
+/* Alignment Password */
+Next	下一個
+Set Password	設置密碼
+Change Password	更改密碼
+Turn Off Password	關閉密碼
+Password Error	密碼錯誤
+Set Password	設置密碼
+Change Password	更改密碼
+Password Failed	密碼失敗
+Password Turned Off	密碼已關閉
+Turn Password Off	關閉密碼關閉
+Turn Password On	打開密碼打開
+Change Password	更改密碼
+^Set Password	輸入密碼
+^Old Password	輸入舊密碼
+^Password Off	輸入密碼
+^Blank Password	您不能輸入密碼為空
+^Reenter Password	請重新輸入您的密碼
+^New Password	輸入新密碼
+^Password Incorrect	輸入的密碼不正確
+^Password Again	重新輸入新密碼
+^Password Mismatch	該密碼不匹配
+^Password Turned Off	對準密碼已被關閉
+
+/* Alignment Help */
+^Redball Title	紅球對齊
+^Redball Info	紅球對準的目標是讓每個投影儀的紅色圖像覆蓋球形的表面，請讓球體上無任何青色部分
+^Redball Manual	通常情況下，一次只能讓一台投影機平移，縮放和旋轉。請確保圖像定位均勻地在投影機前面的球。請注意看球體的兩側使紅色圖像集中在球體上。一旦集中請擴大它，直到它覆蓋了目前球體的象限
+^Grid Title	網格對齊
+^Grid Info	網格對齊的目標是讓每個投影機之格線看起來像一個無縫的球
+^Grid Manual	通常情況下，一次只能選擇一台投影機，使用平移和縮放控制項調整網格，最好是切換相鄰的投影機使其從相鄰的投影機互相移動網格，並讓它們在中間相遇，而不是一次移動一個網格一路轉移到其它的格狀
+^Vertex Title	頂點扭捏
+^Vertex Info	頂點扭捏的目標是通過在網格調整使頂點對準
+^Vertex Manual	通常情況下，一次只能選擇一台投影機標，畫面上有數字1到9的格點，選擇一個格點使用平移控制上，下，左，右圖拉近所選的號碼，所以如果需要向左移動，那麼你就需要在相應的頂部，中部和底部的格點伸展，有時會混淆格線，所以必須頻繁的切換相鄰的投影機進行調整。另外如果兩條線是分開是不應該的，移動每條線一半使其在中間相遇，而不是指移動一個線去覆蓋其他線
+^Manual Title	手動模式
+^Document Refer	請參閱SOS校準手冊的說明
+^Auto Title	自動（實驗）模式
+^Auto Info	這是一個需要連接到SOS計算機的4台攝像機的功能。 按開始開始。 對齊將需要10-15分鐘。 一旦對齊完成，請查看結果。 您可以使用手動控制進一步調整。
+^Revert Info	請重新從您儲存校準上一次的設置
+^Save Info	儲存所有您對投影機進行調整
+^Done Info	返回到主校準頁

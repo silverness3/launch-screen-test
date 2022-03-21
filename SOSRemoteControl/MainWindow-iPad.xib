@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.iPad.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="ipad9_7" orientation="portrait" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UIApplication">
+            <connections>
+                <outlet property="delegate" destination="3" id="99"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <customObject id="3" customClass="ApplicationDelegate_Pad">
+            <connections>
+                <outlet property="mainWindowTabBarController" destination="189" id="rM4-5n-Gaf"/>
+                <outlet property="tabBarController" destination="189" id="195"/>
+                <outlet property="window" destination="2" id="9"/>
+            </connections>
+        </customObject>
+        <window opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="2">
+            <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="blackOpaque"/>
+            <point key="canvasLocation" x="131" y="103"/>
+        </window>
+        <tabBarController id="189">
+            <extendedEdge key="edgesForExtendedLayout"/>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="blackOpaque"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <tabBar key="tabBar" contentMode="scaleToFill" id="190">
+                <rect key="frame" x="0.0" y="975" width="768" height="49"/>
+                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            </tabBar>
+            <viewControllers>
+                <viewController id="211" userLabel="View Controller - My Presentation" customClass="MPRootViewController">
+                    <extendedEdge key="edgesForExtendedLayout"/>
+                    <tabBarItem key="tabBarItem" title="Presentation" image="icon_blog.png" id="212"/>
+                </viewController>
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="LjP-nH-sfx" userLabel="Datasets VC" customClass="DatasetsVC">
+                    <tabBarItem key="tabBarItem" title="Item" id="RmR-RN-hAT"/>
+                    <toolbarItems/>
+                </viewController>
+            </viewControllers>
+            <point key="canvasLocation" x="652" y="103"/>
+        </tabBarController>
+    </objects>
+    <resources>
+        <image name="icon_blog.png" width="30" height="30"/>
+    </resources>
+</document>

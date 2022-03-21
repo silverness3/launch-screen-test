@@ -1,0 +1,393 @@
+/* Main Interface */	
+Presentation	Presentación
+Data Catalog	Catálogo de datos
+Playlist Builder	Generador de lista de reproducción
+Web Page	Página web
+Settings	Ajustes
+	
+/* Presentation */	
+Annotate	Anotar
+Zoom	Enfocar
+Slices	rebanadas
+User Position	Posición de usuario
+User Pos	Pos usuario
+^Data Info	Info de datos
+Reset	Reiniciar
+Z-Rotate	Z-Rota
+Gestures	Gestos
+Frame Slider	Deslizador marco
+Frame	Marco
+Clear Lines	Líneas claras
+Clear	Claro
+Lines	Líneas
+Point	Punto
+Draw	Dibujar
+Icons	iconos
+Delete All	Eliminar todos
+^Icon AddDel	Añadir / Eliminar Icono
+Window Size	Tamaño de ventana
+Show	Espectáculo
+Hide	Esconder
+Slicer	Divisor
+^Split Sphere	A punto de dividir la esfera en varios sectores. Por favor espera...
+^Position Info	Ajustes de orientación se producen en relación con esta posición de visión longitudinal situado en el ecuador.
+^Frame Info	Utilice el control deslizante marco para desplazarse a un fotograma deseado en el conjunto de datos.
+^Loading Searching Library	Carga de la biblioteca Buscar.\nPor favor espere ...
+^Playlist Button	Lista de reproducción
+^Catalog Button	Catalogar
+Volume	Volumen
+^Volume Info	Los ajustes de volumen se producen en relación con el volumen en el equipo SOS.
+	
+/* Dataset Layers */	
+Display Elements	Elementos de la pantalla
+Layers	Capas
+^Layer Name	Error de SOS: Nombre de la capa no se reconoce
+Back	Espalda
+Transparency	Transparencia
+Invisible	Invisible
+Visible	Visible
+Delete Layer	Eliminar capa
+Labels / Captions	Etiquetas / Subtítulos
+Labels	Etiquetas / Subtítulos
+PIPs	PIP
+Overlay:	Cubrir:
+PIP:	PIP:
+unnamed	sin nombre
+	
+/* Annotations */	
+Line Options	Opciones de línea
+Icon Options	icono Opciones
+Pointer	Puntero
+Use Default	Uso por defecto
+Use Icon	Uso del icono
+icons in dataset	iconos en el conjunto de datos
+icon in dataset	icono en el conjunto de datos
+icons in library	iconos en la biblioteca
+	
+/* Gestures Help */	
+Presentation Help	presentación Ayuda
+Single Tap	Solo toque
+Double Tap	Doble toque
+Yaw	Guiñada
+Pitch	Tono
+Roll	Rodar
+^Toggle Play	Juego de palanca o de pausa
+^Toggle Annotate	Presente o alternar Anotar
+^Toggle Zoom	Alternar presente o Zoom
+Annotation Help	Anotación Ayuda
+^Toggle Point	Punto de alternar o dibujar
+Clear Draw Lines	Dibujar líneas claras
+Add Icon	Añadir Icono
+Touch & Hold	Toque y mantenga presionado
+Clear All Icons	Borrar todos los iconos
+Zoom Help	zoom Ayuda
+Move Window	Mover ventana
+^Zoom Factor	Aumentar / Reducir el factor de enfocar
+^Spread Pinch	Propagación / Pellizco
+	
+/* Playlist Selection */	
+playlist	lista de reproducción
+live program	programa en directo
+datasets search results	conjuntos de datos de resultados de la búsqueda
+live program results	resultados de los programas en directo
+datasets	conjuntos de datos
+Missing Data	Datos perdidos
+^Catalog Type Missing Playlist File	Este conjunto de datos se encuentra en el Catálogo de datos, pero no se encontró en el equipo SOS.
+^No Data	No se encontraron datos.
+^Open Error	Datos de apertura de error.
+^Layer Error	Error al abrir las capas de datos.
+^Notes Missing	No hay notas del presentador disponibles para este programa en directo.
+^Notes Unsupported	no son compatibles con las notas del presentador
+Missing Playlist	Lista de reproducción faltante
+playlists	las listas de reproducción
+Select Playlist	Seleccionar lista de reproducción
+^Load Playlist	Seleccione una lista de reproducción para cargar
+^Read Playlist	Seleccione una lista de reproducción para leer
+overlays	superposiciones
+Overlays	Superposiciones
+Loading Dataset	Cargando conjunto de datos
+^Playlist Type Missing Playlist File	Esta lista de reproducción conjunto de datos no se encontró en el equipo SOS.
+Missing Live Program	Programa en vivo que falta
+^Missing Live Program Playlist File	Esta lista Programas presentación en vivo se encuentra en el Catálogo de datos, pero no se encontró en el equipo SOS.
+Reload Current	Actualizar corriente
+Non-Standard Path	Ruta no estándar
+^NonStandard Path	Este conjunto de datos se encontró en la computadora SOS, pero se debería mover a un subdirectorio bajo /shared/sos/media/site-custom.
+
+/* Highlights Datasets */
+spotlight datasets results	resultados de los conjuntos de datos de Spotlight
+Spotlight Datasets Unavailable	Conjuntos de datos de Spotlight no disponibles
+^No Spotlights	No se han encontrado conjuntos de datos destacados en el Catálogo de datos SOS.
+Cannot Add Dataset	No se puede agregar el conjunto de datos
+^Temp Datasets Not Allowed	Los conjuntos de datos temporales no se pueden agregar a las listas de reproducción de presentación.
+
+/* Playlist Builder Controls */	
+Add	Añadir
+Save	Guardar
+Delete	Borrar
+New	Nuevo
+Open	Abierto
+Present	Presente
+Rename	Rebautizar
+Remove	Retirar
+Presenter Notes	Notas del presentador
+unsaved	no guardado
+^Notes Placeholder	Introduzca sus notas de la presentación aquí.
+^No Notes	No hay notas del presentador disponibles para este archivo de lista de reproducción presentación.
+	
+/* Playlist Builder Information */	
+Delete Playlist	Borrar lista de reproducción
+Rename Playlist	Cambiar el nombre de lista de reproducción
+Save Playlist	Guardar lista de reproducción
+Present Playlist	Lista de reproducción actual
+^Deleted Info	Lista de reproducción se ha eliminado
+^Delete Error	Error: No se pudo borrar lista de reproducción
+^Delete Confirm	Confirme que desea borrar lista de reproducción
+^Exists Info	Lista de reproducción ya existe
+^Path Verify	Compruebe que existe la ruta de directorio ya especificados. Nuevos subdirectorios deben crearse en la máquina SOS.
+^Different Name	Por favor, elija un nombre diferente
+Playlist	Lista de reproducción
+renamed to	renombrado a
+^Rename Error	Error: No se pudo cambiar el nombre de lista de reproducción
+^New Name	Introduzca un nuevo nombre de la lista
+^Enter Name	Por favor, introduzca un nombre de lista de reproducción en la barra de herramientas
+^Save Action	Pulse Guardar para escribir de edición en la lista de reproducción.
+^Save Changes	Guardar los cambios a la lista
+^Save Needs Playlist	Para guardar los cambios, pulse Cancelar e introduzca un nombre de lista de reproducción en la barra de herramientas en primer lugar.
+^Saved Info	lista de reproducción guardada en el equipo SOS
+^Save Error	Error: No se pudo guardar la lista de reproducción
+^Save First	Nueva lista de reproducción tiene que ser guardado en primer lugar.
+^Save Question	¿Guardar cambios?
+^Editing Choice	¿Desea continuar editando esta lista de reproducción o desactivarla para la próxima presentadora?
+^Invalid Characters	Por favor, vuelva a introducir sin necesidad de utilizar espacios ni los siguientes caracteres:
+^Playlist Error	Error al abrir lista de reproducción:
+^Created Playlist	Creado por SOS lista de reproducción Constructor
+Saved	Guardado
+time	hora
+dataset	conjunto de datos
+Contains	contiene
+OK	Aceptar
+Cancel	Cancelar
+Don't Save	No guardar
+Continue	Continuar
+new_playlist	nuevo
+
+/* Dataset Information */
+Data Info	Información de datos
+^Select Datasets	No hay conjuntos de datos se seleccionan.
+^Dataset Archived	Este conjunto de datos se archivan y se retira del Catálogo SOS de datos. conjuntos de datos archivados ya no son compatibles con el SOS, pero aún pueden estar disponibles por pedido especial.
+^No Description	No hay descripción disponible.
+Notable Features:	Características notables:
+Details:	detalles:
+Catalog ID:	ID de catálogo:
+archived	archivado
+(variation)	(variación)
+Keyword	Palabra clave
+Keywords	Palabras clave
+Category	Categoría
+Categories	Categorías
+Contact	Contacto
+Dataset Developer	Desarrollador conjunto de datos
+Visualization Developer	Visualización desarrollador
+Source:	Fuente:
+Dataset Dates:	Fechas de conjuntos de datos:
+Added to Catalog:	Añadido al catálogo:
+Playlist:	Lista de reproducción:
+Format:	Formato:
+^Silent Movie	Efecto película (sin audio)
+^Narrated Movie	Narrado Película (con audio)
+Movie	Película
+Single Image	Sola imagen
+with Translated Audio	Traducido con audio
+with Audio	con audio
+without Audio	sin audio
+SOS Web	SOS web
+^Translated Movie	Película narrada (con audio traducido)
+Frame Size:	Tamaño del marco:
+
+/* Dataset Browse and Search */	
+Done	Hecho
+No Search Results	Búsqueda sin resultados
+^Dataset Add	No se puede activar además el conjunto de datos de la lista de reproducción del constructor cuando hay 0 conjuntos de datos en los resultados de búsqueda.
+Entry Error	Error de entrada
+^Date Format	Un año sólo puede ser de 4 números en el formato ####. Una búsqueda incluirá todos los conjuntos de datos que incluyen ese año.
+MAJOR CATEGORIES	CATEGORÍAS MAYORES
+SUB CATEGORIES	SUBCATEGORIAS
+LIVE PROGRAMS	PROGRAMAS EN VIVO
+CLEAR	LIMPIAR
+search	buscar
+MOVIES	PELÍCULAS
+REALTIME	TIEMPO REAL
+Title	Título
+Keywords	Palabras clave
+Description	Descripción
+Creator	Creador
+^Audio Movies	Sólo audio: Películas
+^Audio Descriptions	Las descripciones de audio: Sólo
+^Non-English	Los conjuntos de datos: No Inglés
+^Localized Datasets	Texto: Traducido
+^Hires Datasets	Los conjuntos de datos de alta resolución: Sólo
+A-Z	A-Z
+Date	Fecha
+DATASETS	BASES DE DATOS
+LIVE PROGRAMS	PROGRAMAS EN VIVO
+YEAR	AÑO
+THEMES	TEMAS
+themes	temas
+FILTERS	FILTROS
+filters	filtros
+library	biblioteca
+libraries	bibliotecas
+Load	Carga
+Spotlight!	¡Destacar!
+* This dataset is temporary and not part of the SOS Data Catalog.	* Este conjunto de datos es temporal y no forma parte del Catálogo de datos SOS.
+Play | Pause	Jugar | Pausa
+JAN	ENE
+FEB	FEB
+MAR	MAR
+APR	ABR
+MAY	MAYO
+JUN	JUN
+JUL	JUL
+AUG	AGO
+SEP	SEP
+OCT	OCT
+NOV	NOV
+DEC	DIC
+
+/* SOS Settings */
+SOS Settings	Ajustes SOS
+Connection	Conexión
+Host:	Anfitrión:
+Auto Run	Ejecución automáticamente
+SOS Data Catalog	Catálogo de datos SOS
+^Old Database	El catálogo de datos SOS está desactualizado.
+^Update Database	Proceder con su actualización?
+^Catalog Update	SOS datos de catálogo de actualización
+No	No
+Yes	Sí
+Alignment Password	La alineación contraseña
+Alignment	Alineación
+^Alignment Password	Introduzca la contraseña de la alineación.
+Submit	Enviar
+WARNING	ADVERTENCIA
+^Alignment Warning	Sólo personal capacitado debe utilizar la interfaz de alineación. El uso inapropiado afectará negativamente a la apariencia visual de SOS.
+^Alignment Proceed	¿Estas seguro que deseas continuar?
+Connected	Conectado
+Not Connected	No conectado
+^Unconnected Error	Error de SOS: No conectado a SOS
+^Connection Error	Error: No se puede conectar a una red Wi-Fi o Bluetooth. Por favor, vaya a la página de configuración del dispositivo y compruebe la conexión Wi-Fi o Bluetooth.
+^Connection Error iPhone	No hay Wi-Fi / Bluetooth.  Verifica la conexión.
+^Host Error	Error: No se puede conectar con el host. Asegúrese de que el nombre de host es correcto y confirmar que está conectado a la red Wi-Fi correcta o está emparejado Bluetooth.
+^Host Error iPhone	Sin huésped. Ver anfitrión y Wi-Fi / Bluetooth.
+^SOS Error	Error: Capaz de conectarse a Wi-Fi y de acogida, pero no puede conectarse a SOS. Asegúrese de SOS se está ejecutando, el nombre de host es correcta, y la red Wi-Fi o de emparejamiento de Bluetooth es correcta.
+^SOS Error iPhone	Wi-Fi / Bluetooth y host = Sí, SOS = No
+^Web Error	La aplicación no puede acceder a la página web de SOS a través de Internet.
+^Catalog Missing	ERROR: Catálogo de datos es que falta!
+^SOS Update	Última actualización realizada el equipo SOS:
+^iPad Update	Última actualización realizada el iPad:
+^iPad Never	iPad Actualizado: Nunca
+^Catalog Current	El Catálogo SOS de datos es actual en el iPad y no necesita actualización.
+^Run Update	Ejecute de nuevo la actualización de todos modos?
+^Catalog Update	SOS datos de catálogo de actualización
+Loading	Cargando
+^Transfer Catalog	Transferir el Catálogo SOS de datos.
+^Wait	Por favor espera...
+^Catalog Initialize	Catálogo de datos de inicialización
+^Catalog Open	No se pudo abrir el Catálogo de datos SOS!
+^Update Again	Por favor, intente actualizar de nuevo.
+Status:	Estado:
+Missing	Desaparecido
+Out-of-Date	Fuera de plazo
+Up-to-Date	A hoy
+^Missing SOS	Desapareció el SOS ordenador. Aceptar en el iPad.
+^Missing Both	Falta en tanto SOS PC y iPad.
+Alignment Password Failed	Alineación de la contraseña falló
+Alignment Password Saved	La alineación ha guardado la contraseña
+^Password Failed	La interfaz de alineación no se puede abrir. La contraseña introducida es incorrecta.
+Auto Run Mode	Modo de ejecución automática
+^Stop Autorun	Una presentación automática SOS se está ejecutando. El resto de la aplicación va a ser inaccesible. Pulse en el botón Detener para finalizar el modo de funcionamiento del automóvil.
+Stop	Parar
+Update Now	Actualizar ahora
+Version Incompatibility	Versión Incompatibilidad
+^Version Upgrade	Para buscar y buscar rápidamente datos en el catálogo de datos SOS y crear nuevas listas de reproducción de presentación mediante el Playlist Builder de la aplicación, debe actualizar el software del equipo SOS a la versión 4.3.1 o posterior.\n\nEl ordenador SOS está ejecutando la versión
+Feature Unavailable	Característica no disponible
+^Upgrade Software	Para utilizar esta función, debe actualizar su software SOS a la versión más reciente.
+
+/* Alignment Controls */
+^Ball Step	Paso 1: Bola Roja
+^Grid Step	Paso 2: Rejilla
+^Vertex Step	Paso 3: Ajuste de vértices
+Factory Reset	Reiniciar la configuracion
+^Factory Reset	Una restauración de fábrica se restablecerá por completo la alineación de los proyectores en su sistema SOS. Esto debe hacerse sólo si los proyectores se han movido físicamente o la alineación es realmente fuera.
+^Reset Question	¿Seguro que deseas realizar un restablecimiento de fábrica?
+Start	Comienzo
+Stop	Parar
+Complete	Completar
+Unable to Start	Incapaz de comenzar
+Unable to Stop	Incapaz de detenerse
+Stopped	Detenido
+Finished	Terminado
+Timed Out	Caducado
+Ready	Listo
+Manual	Manual
+Select Projector	Elija un proyector
+Show Projector	proyector de la demostración
+Translate	Traducir
+Scale	Escala
+On/Off	Encendido apagado
+Taller	Más alto
+Squatter	Más gordo
+Wider	Más amplio
+Thinner	Más delgada
+Rotate	Girar
+^Auto Align	La alineación automática
+^Requires Hardware	* Se requiere hardware adicional
+Revert	Revertir
+Select Vertex	Seleccionar Vértice
+On	Encendido
+Off	Apagado
+Reset Vertices	Los vértices de reposición
+All	Todas
+^Vertices Confirm	¿Está seguro de que desea restablecer los vértices?
+
+/* Alignment Password */	
+Next	Siguiente
+Set Password	Configurar la clave
+Change Password	Cambia la contraseña
+Turn Off Password	Desactivar contraseña
+Password Error	Error de contraseña
+Set Password	Configurar la clave
+Change Password	Cambia la contraseña
+Password Failed	Contraseña Error
+Password Turned Off	Contraseña desactivada
+Turn Password Off	Desactiva la contraseña
+Turn Password On	Activar contraseña
+Change Password	Cambia la contraseña
+^Set Password	Ingrese una contraseña
+^Old Password	Introduzca su contraseña antigua
+^Password Off	Introduzca su contraseña
+^Blank Password	No se puede introducir una contraseña en blanco.
+^Reenter Password	reingresa tu contraseña
+^New Password	Introduzca su nueva contraseña
+^Password Incorrect	La contraseña introducida es incorrecta.
+^Password Again	Vuelva a introducir su nueva contraseña
+^Password Mismatch	Las contraseñas no coinciden.
+^Password Turned Off	La contraseña de alineación se ha desactivado.
+
+/* Alignment Help */
+^Redball Title	La alineación de la bola roja
+^Redball Info	El objetivo de la alineación de la bola roja es tener la imagen roja de cada proyector cubre la superficie de la esfera y no se pasa del ámbito en cualquier lado. Además, usted no quiere ver ninguna cian en la esfera.
+^Redball Manual	Por lo general, sólo se necesita un proyector en en el tiempo durante este paso. Seleccionar un proyector. Ajuste la imagen roja usando los controles de la traducción, escala y rotación. Durante el ajuste, no te quedes en un solo lugar. Asegúrese de que la imagen está colocada de manera uniforme la esfera en la parte delantera del proyector por caminar de un lado a otro para ver ambos lados de la esfera. A veces es útil para hacer la imagen pequeño rojo y luego centrarla en la esfera. Una vez que esté centrado, expandirla hasta que cubra el cuadrante de la esfera que está viendo.
+^Grid Title	Alineación de cuadrícula
+^Grid Info	El objetivo de la alineación de cuadrícula es tener las líneas de la cuadrícula de cada línea proyector hacia arriba para que se vea como una sola imagen se proyecta alrededor de la esfera.
+^Grid Manual	Por lo general, desea que todos los proyectores en la mayor parte del tiempo. Seleccionar un proyector y utilice los controles de traducción y de escala para ajustar la rejilla. A veces es confuso en cuanto a qué línea se está proyectando desde qué proyector, por lo que es útil para alternar los proyectores adyacentes dentro y fuera de diferenciar entre las líneas. Es mejor mover la cuadrícula de un proyector a mitad de camino y luego mover la cuadrícula de un proyector a mitad de camino adyacente y hacer que se encuentran en el medio en lugar de mover una rejilla de todo el camino a la otra red.
+^Vertex Title	Vértice Afinando
+^Vertex Info	El objetivo de Vértice Afinando es afinar la alineación entre los proyectores mediante la deformación de vértices en una cuadrícula.
+^Vertex Manual	Por lo general, desea que todos los proyectores en la mayor parte del tiempo. Seleccionar un proyector. Se mostrará una gráfica marcado con los números 1-9. A continuación, seleccione un vértice. Use los controles de traducción para estirar la imagen hacia arriba, abajo, izquierda o derecha. La imagen sólo tendrá una extensión de cerca del número seleccionado, por lo que si todo un lado tiene que mover a la izquierda, entonces usted tendrá que estirarlo en la parte superior correspondiente, medio y vértices inferiores. A veces es confuso en cuanto a qué línea se está proyectando desde qué proyector, por lo que es útil para alternar los proyectores adyacentes dentro y fuera de diferenciar entre las líneas. Además, si dos líneas están separadas que no debería ser, es bueno para mover cada línea de medio campo y tienen las líneas se encuentran en el medio en lugar de mover una línea hasta el final a la otra línea.
+^Manual Title	Modo manual
+^Document Refer	Por favor, consulte el Manual de SOS alineación para obtener instrucciones completas de alineación.
+^Auto Title	Modo de alineación automática
+^Auto Info	Esta es una característica que requiere 4 cámaras conectadas a la computadora SOS. Pulse Iniciar para comenzar. Una alineación se llevará a 10-15 minutos. Una vez que se ha completado la alineación, revisar los resultados. Puede realizar más ajustes utilizando los controles manuales.
+^Revert Info	Actualizar la configuración de la última vez que guardó la alineación.
+^Save Info	Guardar todos los ajustes que ha realizado en los proyectores.
+^Done Info	Volver a la página principal de alineación.
